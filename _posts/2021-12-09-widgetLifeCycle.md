@@ -1,10 +1,4 @@
----
-title: "위젯의 생명주기란.."
-categories:
-- Flutter
-  tags:
-- lifecycle
----
+
 ---
 title: "시작하기..."
 categories:
