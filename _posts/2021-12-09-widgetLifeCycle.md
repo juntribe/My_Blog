@@ -1,7 +1,7 @@
 ---
-title: "시작하기..."
+title: "위젯의 생명주기란.."
 categories:
-  - blog
+  - flutter
 tags:
   - Start
   - update
