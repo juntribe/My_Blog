@@ -3,8 +3,8 @@ title: "위젯의 생명주기란.."
 categories:
   - flutter
 tags:
-  - Start
-  - update
+  - lifecycle
+  
 ---
 
 플러터의 위젯 트리에서 위젯이 등록되고 화면이 생성되고 사라질 때까지의 위젯 내부의 단계적인 상태 변화를 가지는 것을 말합니다.
