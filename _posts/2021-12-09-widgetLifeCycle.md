@@ -12,7 +12,7 @@ StatelessWidget도 Constructor -> build() -> dispose() 과정의 상태를 가�
 화면에 한 번 갱신되면 사라질 때까지 변경될 수 없는 위젯이라고 생각하면 됩니다.
 StatefulWidget은 생명주기는 상태가 변경될 수  있기 때문에 StatelessWidget보다 많은 단계를 가지고 있습니다.
 
-|||내용|
+|메서드||내용|
 |-----||-----|
 |createState()||StatefulWidget 생성하면 즉시 호출|
 |mounted ==true||createState() 실행되면 모든 위젯이 가지고 있는 속성 this.mounted가 true로 변경된다.|
