@@ -10,6 +10,7 @@ Gradle Multi Project 구성으로 프로젝트 시작
 블로그를 참고 해서 작업을 하였고 Repository 테스트 도중 
 오류 발생
 ![error](/assets/images/에러코드.png)
+<img src="/assets/images/에러코드.png"></img>
 
 
 java.lang.IllegalStateException: Failed to load ApplicationContext
