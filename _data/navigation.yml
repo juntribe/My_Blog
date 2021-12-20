@@ -5,7 +5,6 @@ main:
     url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "프로젝트"
-    url: /project/
+
 
  
