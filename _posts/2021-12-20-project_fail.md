@@ -9,13 +9,13 @@ tags:
 Gradle Multi Project 구성으로 프로젝트 시작
 블로그를 참고 해서 작업을 하였고 Repository 테스트 도중 
 오류 발생
-![img.png](../assets/images/에러코드.png)
+![error](/assets/images/에러코드.png)
 
 
 java.lang.IllegalStateException: Failed to load ApplicationContext
 문구만 보고 @WebAppConfiguration 어노테이션을 붙이면 해결할 수 있다는 글을 보고 시도 해보았지만 실패 했다.
 계속 삽질만 하다가 천천히 오류 문구를 확인 해보았다
-![img.png](../assets/images/에러코드1.png)
+![error](/assets/images/에러코드1.png)
 
 properties 확인 해보았으며 결국 오타로 인한 삽질 이었다....
 
